@@ -44,6 +44,7 @@
 ![pac1](https://www.devopsschool.com/blog/wp-content/uploads/2022/04/PaC-Policy-as-Code-9-1024x354.png)
 
 - **Chosen pipeline**
+  - Simple python flask
 ![pipeline1](pipeline.png)
     
 [^1]: [Tìm hiểu và triển khai thử DevOps pipeline cho một bài toán Python Flask](https://www.youtube.com/watch?v=1Nx7wjL0Pks)
